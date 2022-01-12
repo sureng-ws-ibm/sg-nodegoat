@@ -14,7 +14,7 @@
   },
     "remediateSettings": {
     "enableRenovate": true,
-    "transitiveRemediation": true,
-    "extends": ["config:base"]
+    "extends": ["config:base"],
+    "transitiveRemediation": true    
   }
 }
